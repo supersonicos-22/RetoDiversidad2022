@@ -22,4 +22,4 @@ Sesgo / No Contiene sesgo
     
   ○ Segundo Front: Herramienta que permite la clasificación del contenido web.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/supersonicos-22/RetoDiversisdad2022/blob/main/AUX/front.PNG)

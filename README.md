@@ -25,3 +25,5 @@ Sesgo / No Contiene sesgo
   ● Segundo Front: Herramienta que permite la clasificación del contenido web.
 
   ![MacBook Pro 16_ - 2](https://user-images.githubusercontent.com/42507973/197400730-25385d79-390b-45f0-84c6-9b99cb3c4d5a.png)
+
+  ● Arquitectura del Proyecto

@@ -1,7 +1,6 @@
 # Reto Diversisdad 2022
 
-¿Qué es lo que buscamos?: Diseñar una herramienta que permita identificar sesgos
-conscientes e inconscientes en contenidos de internet.
+¿Qué es lo que buscamos?: Diseñar una herramienta que permita identificar sesgos conscientes e inconscientes en contenidos de internet.\n
 ¿Cómo lo vamos a lograr?:
   ● Generar una base de datos derivada de diferentes textos en línea que provean los usuarios
   ● Implementar una Blockchain descentralizada que aporte las etiquetas o inputs de los diferentes textos, clasificándolos entre Sesgado y No Sesgado

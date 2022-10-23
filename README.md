@@ -18,6 +18,6 @@ Sesgo / No Contiene sesgo
   
   ● Diseño de una plataforma con 2 Fronts:
   
-    ○ Primer Front: Opción de añadir valor/bloque hash a la Blockchain
+  ○ Primer Front: Opción de añadir valor/bloque hash a la Blockchain
     
-    ○ Segundo Front: Herramienta que permite la clasificación del contenido web.
+  ○ Segundo Front: Herramienta que permite la clasificación del contenido web.

@@ -21,3 +21,5 @@ Sesgo / No Contiene sesgo
   ○ Primer Front: Opción de añadir valor/bloque hash a la Blockchain
     
   ○ Segundo Front: Herramienta que permite la clasificación del contenido web.
+
+![alt text](http://url/to/img.png)
